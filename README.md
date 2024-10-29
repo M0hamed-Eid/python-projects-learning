@@ -33,7 +33,7 @@ Create a contact book application that allows users to add, view, and delete con
 ## Getting Started
 
 To start with any project:
-1. Clone this repository: `git clone https://github.com/yourusername/python-projects-learning.git`
+1. Clone this repository: `git clone https://github.com/M0hamed-Eid/python-projects-learning.git`
 2. Navigate into the project folder: `cd python-projects-learning`
 3. Start with any project by following the instructions in its dedicated folder.
 
