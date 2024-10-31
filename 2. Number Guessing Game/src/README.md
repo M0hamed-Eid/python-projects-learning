@@ -31,7 +31,7 @@ This project is a command-line-based Number Guessing Game built in Python, inten
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/M0hamed-Eid/NumberGuessingGame.git](https://github.com/M0hamed-Eid/python-projects-learning/tree/main/2.%20Number%20Guessing%20Game/src)
+   git clone https://github.com/M0hamed-Eid/python-projects-learning/tree/main/2.%20Number%20Guessing%20Game/src
    cd NumberGuessingGame
 
 2. Set up and activate a virtual environment:
